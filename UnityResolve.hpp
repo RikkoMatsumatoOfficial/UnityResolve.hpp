@@ -1,6 +1,6 @@
 #ifndef UNITYRESOLVE_HPP
 #define UNITYRESOLVE_HPP
-
+#define _SILENCE_CXX17_CODECVT_HEADER_DEPRECATION_WARNING
 // ============================== 自动检测当前环境 ==============================
 
 #if defined(_WIN32) || defined(_WIN64)
